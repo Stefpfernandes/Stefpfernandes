@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Stefpfernandes
-- 👀 I’m interested in learn more about programming
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on creation of websites, projects and everything that involves programming
-- 📫 How to reach me my email - stefaniepereirafernandes@gmail.com
+- 😁 Olá eu sou a @Stefpfernandes
+- 🤕 Estou aprendendo a usar o GitHub!
+- 😎 Faço faculdade de Engenharia de Software
+- 🧐 Sempre tentando aprender e aperfeiçoar
+- 📫 Como me procurar -> stefaniepereirafernandes@gmail.com
 
 <!---
 Thanks
