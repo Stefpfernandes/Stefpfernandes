@@ -2,7 +2,6 @@
 - 🤕 Estou aprendendo a usar o GitHub!
 - 😎 Faço faculdade de Engenharia de Software
 - 🧐 Sempre tentando aprender e aperfeiçoar
-- 📫 Como me procurar -> stefaniepereirafernandes@gmail.com
 
 ##
 
@@ -11,12 +10,13 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Stefpfernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefpfernandes&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+  
+  <img align="right" alt="Stef" height="110" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/897841875149529093/897842048617574420/1631910962164.png">
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Stef" height="150" style="border-radius:50px;"  src="https://discord.com/channels/897841875149529089/897841875149529093/897842048634339329">
+  <img align="center" alt="Stef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Stef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Stef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
