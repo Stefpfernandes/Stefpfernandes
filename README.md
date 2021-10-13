@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Stefpfernandes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Stefpfernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefpfernandes&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Stefpfernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefpfernandes&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   <img align="right" alt="Stef" height="110" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/897841875149529093/897842048617574420/1631910962164.png">
