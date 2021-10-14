@@ -31,7 +31,7 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-   ## Total de Visitas no Perfil :detective: <br>
+   ## Total de Visitas no Perfil 👀 <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Stefpfernandes/count.svg" />
  </p>
